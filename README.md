@@ -32,5 +32,5 @@ VBA is a powerful tool for automating tasks and improving efficiency in data-hea
 
 ## Contact Me
 If you want to collaborate, or if you have any questions, feel free to reach out!  
-🔗 [LinkedIn](https://www.linkedin.com) | ✉️ [Email](mailto:your.email@example.com)
+🔗 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/aafiaiqbal/))
 
